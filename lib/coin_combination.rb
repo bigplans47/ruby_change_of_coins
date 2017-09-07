@@ -1,4 +1,5 @@
 class Coin
+
   def coin_calculator(user_input)
     quarter = 25
     dime = 10
